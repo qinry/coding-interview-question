@@ -58,7 +58,6 @@ HashMap
         <td>remove</td>
         <td>去除键</td>
     </tr>
-    
     <tr>
         <td>size</td>
         <td>返回元素的个数</td>
