@@ -32,3 +32,4 @@
 * [最少回文分割](src/main/java/io/dure/coding/dynamicprogramming/MinCut.java)
 * [最长公共子序列](src/main/java/io/dure/coding/dynamicprogramming/LongestCommonSubsequence.java)
 * [字符串交织](src/main/java/io/dure/coding/dynamicprogramming/IsInterleave.java)
+* [子序列的数目](src/main/java/io/dure/coding/dynamicprogramming/NumDistinct.java)
