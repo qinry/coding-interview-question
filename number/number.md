@@ -45,8 +45,8 @@ Java中有四种有符号整数类型：byte（-2^-7 ~ 2^7-1）、short（-2^-15
 
 ## 题目
 
-* [整数除法](src/main/java/io/dure/number/IntegerDivide.java)
-* [二进制加法](src/main/java/io/dure/number/BinaryAdd.java)
-* [前 n 个数字二进制形式中1的个数](src/main/java/io/dure/number/CountOf1InBinaryWayTopN.java)
+* [整数除法](src/main/java/io/dure/number/Divide.java)
+* [二进制加法](src/main/java/io/dure/number/AddBinary.java)
+* [前 n 个数字二进制形式中1的个数](src/main/java/io/dure/number/CountBits.java)
 * [只出现一次的数字](src/main/java/io/dure/number/SingleNumber.java)
 * [单词长度的最大乘积](src/main/java/io/dure/number/MaxProduct.java)
