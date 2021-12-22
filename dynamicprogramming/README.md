@@ -40,3 +40,6 @@
 * [字符串交织](src/main/java/io/dure/coding/dynamicprogramming/IsInterleave.java)
 * [子序列的数目](src/main/java/io/dure/coding/dynamicprogramming/NumDistinct.java)
 * [分割等和子集](src/main/java/io/dure/coding/dynamicprogramming/CanPartition.java)
+* [加减的目标值](src/main/java/io/dure/coding/dynamicprogramming/FindTargetSumWays.java)
+* [最少的硬币数目](src/main/java/io/dure/coding/dynamicprogramming/CoinChange.java)
+* [排列的数目](src/main/java/io/dure/coding/dynamicprogramming/PermutationSum.java)

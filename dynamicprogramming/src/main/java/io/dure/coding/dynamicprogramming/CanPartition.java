@@ -56,7 +56,7 @@ public class CanPartition {
 
         dp[0] = true;
         for (int i = 1; i <= nums.length; i++) {
-            for (int j = target; j >= 0; j--) {
+            for (int j = target; j > 0; j--) {
                 if (!dp[j] && j >= nums[i-1]) {
                     dp[j] = dp[j-nums[i-1]];
                 }
