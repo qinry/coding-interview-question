@@ -22,6 +22,8 @@
 
 关于路径的问题可以考虑深度优先搜索。关于最短距离可以考虑广度优先搜索。
 
+如果图的节点有v个，边有e个，那么无论深度优先搜索还是广度优先搜索，每个节点只会访问一次并且沿着每条判断与某个节点相邻节点是否已经访问过，时间复杂度为O(v+e)。
+
 ## 二分图
 
 如果任意一条边的两个节点被涂上不同的颜色，整个图就是二分图。
@@ -30,3 +32,5 @@
 
 * [最大面积的岛屿](src/main/java/io/dure/coding/graph/MaxAreaOfIsland.java)
 * [二分图](src/main/java/io/dure/coding/graph/IsBipartite.java)
+* [矩阵中的距离](src/main/java/io/dure/coding/graph/UpdateMatrix.java)
+* [单词演变](src/main/java/io/dure/coding/graph/LadderLength.java)
