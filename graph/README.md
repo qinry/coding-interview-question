@@ -29,3 +29,4 @@
 ## 题目
 
 * [最大面积的岛屿](src/main/java/io/dure/coding/graph/MaxAreaOfIsland.java)
+* [二分图](src/main/java/io/dure/coding/graph/IsBipartite.java)
