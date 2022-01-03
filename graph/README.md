@@ -34,3 +34,4 @@
 * [二分图](src/main/java/io/dure/coding/graph/IsBipartite.java)
 * [矩阵中的距离](src/main/java/io/dure/coding/graph/UpdateMatrix.java)
 * [单词演变](src/main/java/io/dure/coding/graph/LadderLength.java)
+* [开密码锁](src/main/java/io/dure/coding/graph/OpenLock.java)
