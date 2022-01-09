@@ -1,6 +1,7 @@
 package io.dure.coding.graph;
 
 public class LongestIncreasingPath {
+    // O(v+e) time
     public int longestIncreasingPath(int[][] matrix) {
         if (matrix.length == 0 || matrix[0].length == 0) {
             return 0;

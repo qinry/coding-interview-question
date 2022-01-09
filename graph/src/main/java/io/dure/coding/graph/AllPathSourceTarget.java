@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class AllPathSourceTarget {
+    // O(v+e) time
     public List<List<Integer>> allPathSourceTarget(int[][] graph) {
         List<List<Integer>> result = new LinkedList<>();
         List<Integer> path = new LinkedList<>();

@@ -3,6 +3,7 @@ package io.dure.coding.graph;
 import java.util.*;
 
 public class OpenLock {
+    // O(v+e) time
     public int openLock(String[] deadends, String target) {
         Set<String> dead = new HashSet<>(Arrays.asList(deadends));
         Set<String> visited = new HashSet<>();

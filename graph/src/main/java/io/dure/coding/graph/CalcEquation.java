@@ -3,6 +3,7 @@ package io.dure.coding.graph;
 import java.util.*;
 
 public class CalcEquation {
+    // O(v+e) time
     public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
         Map<String, Map<String, Double>> graph = buildGraph(equations, values);
         double[] result = new double[queries.size()];
@@ -18,7 +19,6 @@ public class CalcEquation {
         }
         return result;
     }
-
     private double dfs(Map<String, Map<String, Double>> graph, String from, String to, Set<String> visited) {
         if (from.equals(to)) {
             return 1.0;

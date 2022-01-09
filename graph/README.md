@@ -38,3 +38,4 @@
 * [所有路径](src/main/java/io/dure/coding/graph/AllPathSourceTarget.java)
 * [计算除法](src/main/java/io/dure/coding/graph/CalcEquation.java)
 * [最长递增路径](src/main/java/io/dure/coding/graph/LongestIncreasingPath.java)
+* [课程顺序](src/main/java/io/dure/coding/graph/FindOrder.java)
