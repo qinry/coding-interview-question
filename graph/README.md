@@ -40,3 +40,4 @@
 * [最长递增路径](src/main/java/io/dure/coding/graph/LongestIncreasingPath.java)
 * [课程顺序](src/main/java/io/dure/coding/graph/FindOrder.java)
 * [外星文字典](src/main/java/io/dure/coding/graph/AlienOrder.java)
+* [重建序列](src/main/java/io/dure/coding/graph/SequenceReconstruction.java)
