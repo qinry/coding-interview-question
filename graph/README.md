@@ -71,3 +71,5 @@
 * [重建序列](src/main/java/io/dure/coding/graph/SequenceReconstruction.java)
 * [朋友圈](src/main/java/io/dure/coding/graph/FindCircleNum.java)
 * [相似的字符串](src/main/java/io/dure/coding/graph/NumSimilarGroups.java)
+* [多余的边](src/main/java/io/dure/coding/graph/FindRedundantConnection.java)
+* [最长连续序列](src/main/java/io/dure/coding/graph/LongestConsecutive.java)
