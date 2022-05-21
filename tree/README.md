@@ -114,8 +114,8 @@ public List<Integer> postorderTraversal(TreeNode root) {
 }
 private void dfs(TreeNode root, List<TreeNode> nodes) {
     if (root != null) {
-        dfs(root, nodes);
-        dfs(root, nodes);
+        dfs(root.left, nodes);
+        dfs(root.right, nodes);
         nodes.add(root.val);
     }
 }
